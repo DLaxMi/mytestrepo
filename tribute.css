@@ -1,0 +1,60 @@
+body
+{
+  padding:50px;
+}
+.new
+{
+  background-color: #696969;
+  margin-top:30px;
+  padding:130px;
+}
+#second
+{
+  color:black;
+  
+}
+h1, p
+{
+  text-align:center;
+  padding-bottom:20px;
+}
+figure figcaption
+{
+  color:white;
+  font-size:30px;
+}
+#para
+{
+  color:white;
+  text-align:left;
+}
+ul li
+{
+   color:white;
+}
+b
+{
+  color:black;
+}
+a
+{
+  color:blue;
+}
+h3 
+{
+font-size:20px; 
+  color:black;
+  text-align:center;
+  
+}
+h2
+{
+  text-align:center;
+  color:orange;
+}
+.new img {
+    width: 100%;
+}
+.new img {
+    display: block;
+}
